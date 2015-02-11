@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"\"Search Colorsublime\"",
+			"\"Search\"",
+			"search",
+			"\"Package Control\"",
+			"Colorsublime",
+			"\"Package Control: Install Package\"",
+			"Install Package",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tb/Dropbox/430/Notes/operatorANDnotes.sql",
+		"/Users/tb/Dropbox/430/Notes/relationships.txt",
+		"/Users/tb/Dropbox/Schedule.txt",
+		"/Users/tb/Dropbox/Docs/bikeParts.txt",
+		"/Users/tb/Dropbox/railsWorkspace/hello_app/Gemfile",
+		"/Users/tb/Dropbox/430/Ch1DatabaseSystems.txt",
+		"/Users/tb/Dropbox/430/Notes/ch3_relationalDatabase.txt",
+		"/Users/tb/blog/app/controllers/welcome_controller.rb",
+		"/Users/tb/blog/app/views/welcome/index.html.erb",
+		"/Users/tb/blog/config/routes.rb",
+		"/Users/tb/Dropbox/Docs/classes.txt",
+		"/Users/tb/Dropbox/Docs/PetLevelingGuide.txt",
+		"/Users/tb/Dropbox/christmasIdeas.txt",
+		"/Users/tb/Dropbox/285/notes/ch11userinterface.txt",
+		"/Users/tb/Dropbox/285/notes/ch10design.txt",
+		"/Users/tb/Dropbox/285/notes/finalExamReview.txt",
+		"/Users/tb/Dropbox/285/notes/ch12designingSystems.txt",
+		"/Users/tb/Dropbox/234/notes/exam3review.txt",
+		"/Users/tb/Dropbox/234/notes/finalExamPracticeCode.txt",
+		"/Users/tb/Dropbox/285/notes/exam3review.txt",
+		"/Users/tb/Dropbox/Docs/Mantle Project.docx",
+		"/Users/tb/Dropbox/465/Projects/webWork/remove_row.py",
+		"/Users/tb/Dropbox/465/Projects/webWork/insert_data.py",
+		"/Users/tb/Dropbox/465/Projects/webWork/sqlConnection.py",
+		"/Users/tb/Dropbox/465/Projects/webWork/search_user.py",
+		"/Users/tb/Dropbox/465/Projects/space_game(Recent)/longserver.cpp",
+		"/Users/tb/Dropbox/465/Projects/space_game(Recent)/clientdemo/client1.cpp",
+		"/Users/tb/Dropbox/465/Projects/webWork/view_table.py",
+		"/Users/tb/Dropbox/285/notes/ch8oct27.txt",
+		"/Users/tb/Dropbox/285/notes/ch9nov3.txt",
+		"/Users/tb/Dropbox/465/Projects/webWork/insert_username.py",
+		"/Users/tb/Dropbox/465/Projects/webWork/functions/insert_data_player.py",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/www/cgi-bin/env.py",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/server/Main.cpp",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/Source/conf/network.conf",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/client/Main.cpp",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/Source/Network.cpp",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/Source/Chat_Window.h",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/Source/Parser.h",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/Source/Parser.o",
+		"/Users/tb/Dropbox/465/Projects/SpaceGame(Class)/CISS465NetworkGame-master/Source/AppStateManager.h",
+		"/Users/tb/Dropbox/285/notes/Oct22.txt",
+		"/Users/tb/Dropbox/285/notes/Ch7Oct27.txt",
+		"/Users/tb/Dropbox/Docs/keyboards.txt",
+		"/Users/tb/Dropbox/Docs/christmasIdeas.txt",
+		"/Users/tb/Dropbox/285/notes/examReview2",
+		"/Users/tb/Dropbox/285/notes/exam2review.txt",
+		"/Users/tb/Dropbox/285/notes/Ch6Oct8.txt",
+		"/Users/tb/Dropbox/285/notes/Ch5Sept29.txt",
+		"/Users/tb/Dropbox/285/notes/Ch4_Sept29.txt",
+		"/Users/tb/Dropbox/285/notes/Ch4_Sept24.txt",
+		"/Users/tb/Dropbox/234/notes/exam1review.txt",
+		"/Users/tb/Dropbox/234/exam1review.txt",
+		"/Users/tb/Dropbox/Sept22_Ch4.txt",
+		"/Users/tb/Applications/boop.txt",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/tb/Dropbox/unsigned.cpp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"';\n",
+			" \n",
+			"99"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
